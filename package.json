@@ -1,0 +1,46 @@
+{
+  "name": "word-snatchers-cli-is-he-living-or-is-he-dead-by-twain-words-plugin",
+  "version": "1.0.0",
+  "description": "Words from 'Is he living or is he dead' by M. Twain - word-snatchers-cli plugin",
+  "license": "MIT",
+  "author": "Rushan Alyautdinov <akgondber@gmail.com>",
+  "homepage": "https://github.com/akgondber/word-snatchers-cli-is-he-living-or-is-he-dead-by-twain-words-plugin",
+	"repository": "akgondber/word-snatchers-cli-is-he-living-or-is-he-dead-by-twain-words-plugin",
+  "type": "module",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "uvu tests",
+    "prettify": "prettier --write ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "consolegame",
+    "cli",
+    "wordsnatcherscliplugin",
+    "word-snatchers-cli-plugin",
+    "word-snatchers-cli",
+    "plugin",
+    "english",
+    "learning",
+    "training",
+    "practicing",
+    "words",
+    "marktwain",
+    "twain",
+    "literature",
+    "vocabulary",
+    "definition",
+    "words",
+    "list",
+    "ishelivingorishedead",
+    "story"
+  ],
+  "devDependencies": {
+    "prettier": "^3.1.1",
+    "uvu": "^0.5.6"
+  }
+}
